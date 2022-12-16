@@ -1,0 +1,37 @@
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.filterBG {
+  background: rgb(248,249,250);
+  background: linear-gradient(5deg, rgb(101, 101, 101) 0%, rgb(36, 36, 36) 0%, rgba(108,117,125,1) 95%);
+}
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.filter_bar {
+  width: 100%;
+}
+
+
+.filter_bar_btn {
+  margin-top: 4%;
+  width: 100%; 
+}
+
+@media only screen and (min-width: 768px) {
+  .filter_bar {
+    width: 50%;
+  }
+
+  .filter_bar_btn {
+    margin-top: 0%;
+    width: 60%; 
+  }
+} 
+

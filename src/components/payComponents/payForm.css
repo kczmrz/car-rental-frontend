@@ -1,0 +1,18 @@
+.fullPaymentForm{
+    border: 1px solid gray;
+    padding: 4%;
+}
+
+.PayInvoice {
+    font-size: 2rem;
+    background-color: rgb(225, 225, 225);
+    text-align: center;
+    padding: 4%;
+    border: 1px solid rgb(183, 183, 183);
+}
+
+.cards-logo{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
