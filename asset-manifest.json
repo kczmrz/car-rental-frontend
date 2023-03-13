@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/car-rental-frontend/static/css/main.eea85e7d.css",
-    "main.js": "/car-rental-frontend/static/js/main.f0074fa3.js",
+    "main.js": "/car-rental-frontend/static/js/main.3c8240d5.js",
     "static/js/787.66b60e12.chunk.js": "/car-rental-frontend/static/js/787.66b60e12.chunk.js",
     "static/media/payment_logos.png": "/car-rental-frontend/static/media/payment_logos.2f20d1d8ec005453b28d.png",
     "static/media/volkswagen_tiguan.jpg": "/car-rental-frontend/static/media/volkswagen_tiguan.d081cac6e0f13bbb72fe.jpg",
@@ -13,11 +13,11 @@
     "static/media/skoda_kodiaq.jpg": "/car-rental-frontend/static/media/skoda_kodiaq.e8f74b655eb0b0fa86da.jpg",
     "index.html": "/car-rental-frontend/index.html",
     "main.eea85e7d.css.map": "/car-rental-frontend/static/css/main.eea85e7d.css.map",
-    "main.f0074fa3.js.map": "/car-rental-frontend/static/js/main.f0074fa3.js.map",
+    "main.3c8240d5.js.map": "/car-rental-frontend/static/js/main.3c8240d5.js.map",
     "787.66b60e12.chunk.js.map": "/car-rental-frontend/static/js/787.66b60e12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eea85e7d.css",
-    "static/js/main.f0074fa3.js"
+    "static/js/main.3c8240d5.js"
   ]
 }
